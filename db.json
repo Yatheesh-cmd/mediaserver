@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "yashj@gmail.com",
+      "username": "ajith kumar",
+      "password": "123446"
+    },
+    {
+      "id": "ec6d",
+      "email": "yatheesh@gmail.com",
+      "username": "yatheesh",
+      "password": "224556"
+    },
+    {
+      "id": "dfd1",
+      "email": "yatheeshvv@gmail.com",
+      "username": "yash",
+      "password": "1234"
+    },
+    {
+      "id": "de8d",
+      "email": "yashdnfk@gmail.com",
+      "username": "whcv",
+      "password": "14232"
+    }
+  ],
+  "videos": [
+    {
+      "id": "f5b8",
+      "title": "rekhachithram",
+      "image": "https://images.filmibeat.com/img/popcorn/movie_posters/rekhachithram-20240930095140-23096.jpg",
+      "videoUrl": "https://www.youtube.com/embed/_g4sWAFR3GE?si=eU4KPvW-CYECjLua"
+    },
+    {
+      "id": "5328",
+      "title": "Marco ",
+      "image": "https://s.yimg.com/zb/imgv1/a95b3773-c453-3877-a8dd-4f40d825ba63/t_500x300",
+      "videoUrl": "https://www.youtube.com/embed/vrJlp2-Y7Sg?si=eU4KPvW-CYECjLua"
+    },
+    {
+      "id": "038b",
+      "title": "Avengers End game",
+      "image": "https://e1.pxfuel.com/desktop-wallpaper/780/99/desktop-wallpaper-watch-marvel-studios-avengers-endgame-average-endgame-android-mobile.jpg",
+      "videoUrl": "https://www.youtube.com/embed/TcMBFSGVi1c?si=eU4KPvW-CYECjLua"
+    }
+  ],
+  "category": [
+    {
+      "id": "656f",
+      "name": "shorts",
+      "videos": [
+        {
+          "id": "f5b8",
+          "title": "rekhachithram",
+          "image": "https://images.filmibeat.com/img/popcorn/movie_posters/rekhachithram-20240930095140-23096.jpg",
+          "videoUrl": "https://www.youtube.com/embed/_g4sWAFR3GE?si=eU4KPvW-CYECjLua"
+        },
+        {
+          "id": "5328",
+          "title": "Marco ",
+          "image": "https://s.yimg.com/zb/imgv1/a95b3773-c453-3877-a8dd-4f40d825ba63/t_500x300",
+          "videoUrl": "https://www.youtube.com/embed/vrJlp2-Y7Sg?si=eU4KPvW-CYECjLua"
+        }
+      ]
+    },
+    {
+      "id": "0ddb",
+      "name": "music",
+      "videos": []
+    },
+    {
+      "id": "7b8d",
+      "name": "videos",
+      "videos": [
+        {
+          "id": "5328",
+          "title": "Marco ",
+          "image": "https://s.yimg.com/zb/imgv1/a95b3773-c453-3877-a8dd-4f40d825ba63/t_500x300",
+          "videoUrl": "https://www.youtube.com/embed/vrJlp2-Y7Sg?si=eU4KPvW-CYECjLua"
+        }
+      ]
+    },
+    {
+      "id": "b14b",
+      "name": "trailers",
+      "videos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "d15b",
+      "videoId": "5328",
+      "title": "Marco ",
+      "image": "https://s.yimg.com/zb/imgv1/a95b3773-c453-3877-a8dd-4f40d825ba63/t_500x300",
+      "datetime": "2025-02-05T08:30:47.072Z"
+    },
+    {
+      "id": "13cc",
+      "videoId": "f5b8",
+      "title": "rekhachithram",
+      "image": "https://images.filmibeat.com/img/popcorn/movie_posters/rekhachithram-20240930095140-23096.jpg",
+      "datetime": "2025-02-05T08:41:05.786Z"
+    },
+    {
+      "id": "1b8f",
+      "videoId": "f5b8",
+      "title": "rekhachithram",
+      "image": "https://images.filmibeat.com/img/popcorn/movie_posters/rekhachithram-20240930095140-23096.jpg",
+      "datetime": "2025-02-05T08:41:20.953Z"
+    },
+    {
+      "id": "6569",
+      "videoId": "5328",
+      "title": "Marco ",
+      "image": "https://s.yimg.com/zb/imgv1/a95b3773-c453-3877-a8dd-4f40d825ba63/t_500x300",
+      "datetime": "2025-02-05T09:17:46.894Z"
+    },
+    {
+      "id": "03e5",
+      "videoId": "038b",
+      "title": "Avengers End game",
+      "image": "https://e1.pxfuel.com/desktop-wallpaper/780/99/desktop-wallpaper-watch-marvel-studios-avengers-endgame-average-endgame-android-mobile.jpg",
+      "datetime": "2025-02-06T08:04:46.416Z"
+    }
+  ]
+}
